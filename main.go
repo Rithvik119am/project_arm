@@ -8,7 +8,6 @@ import (
 func main() {
 	/*postgresqlDbInfo := fmt.Sprintf("host=%s port=%d user=%s "+
 	"password=%s dbname=%s sslmode=disable",
-	//fuck aman
 	//this are changes
 	host, port, user, password, dbname)*/
 
