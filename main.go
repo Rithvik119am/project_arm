@@ -4,7 +4,6 @@ import (
 	//"fmt"
 	"fmt"
 	"net/http"
-	"database"
 )
 
 type Team struct {
