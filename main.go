@@ -8,6 +8,7 @@ import (
 func main() {
 	/*postgresqlDbInfo := fmt.Sprintf("host=%s port=%d user=%s "+
 	"password=%s dbname=%s sslmode=disable",
+	//this are changes
 	host, port, user, password, dbname)*/
 
 	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
